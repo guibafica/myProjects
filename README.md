@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/guibafica/myProjects/blob/master/images/working.png" width="300"/>
+<img align="right" src="https://github.com/guibafica/myProjects/blob/master/images/Working2.png" width="300"/>
 
 ### Hello 👋, 
 
