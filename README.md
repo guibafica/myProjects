@@ -4,6 +4,7 @@
 
 Lhes apresento uma sucinta listas dos projetos mais importantes que eu desenvolvi ao logo da minha carreira. Irei apresentá-los com uma tag referente ao tipo do projeto "C-> Comercial || E-> Estudo", uma breve descrição, link para o repositório e por fim, mini lista de tecnologias chaves implementadas:
 
+> Projetos que tiverem com o nome `Nome fictício`, é devido a falta de possibilidade na divulgação de detalhes sobre o projeto, logo, o repositório com o código fonte estará em modo privado.
 
 ## 📚 "C" [euCei](https://github.com/guibafica/EuCei_Backend_3.0) => 
 Aqui onde tudo começou, junto com mais 2 amigos, desenvolvemos um sistema, web e mobile, que foi vendido para a faculdade na qual estudamos. O projeto se tratava de um *gerenciador de eventos*.
@@ -26,12 +27,17 @@ Tem como objetivo auxiliar o fluxo de clientes em uma barbearia, com facilidade 
 - Layout detalhado; 
 - Typescript. 
 
-## ❎ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivato-2&type=&language=)  _xx/07/2020_ => 
+## ❎ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=)  _xx/07/2020_ => 
 Aplicativo android/ios + backend, capaz de realizar os vários tipos de votação disponibilizadas na aplicação.
-- Mysql -
-- Push Notification; -
-- Sistema de votação; -
-- Reprodução video Youtube. -. 
+- Mysql 
+- Push Notification; 
+- Sistema de votação; 
+- Reprodução video Youtube. 
+
+## 🏘️ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _28/08/2020_ => 
+Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma imobiliária.
+- 100% Adonis, sem auxílio de nenhuma lib externa;
+- Envio de email. 
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
