@@ -28,20 +28,20 @@ Tem como objetivo auxiliar o fluxo de clientes em uma barbearia, com facilidade 
 - Typescript. 
 
 ## ❎ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=)  _xx/07/2020_ => 
-Aplicativo android/ios + backend, capaz de realizar os vários tipos de votação disponibilizadas na aplicação.
+Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votação* disponibilizadas na aplicação.
 - Mysql 
 - Push Notification; 
 - Sistema de votação; 
 - Reprodução video Youtube. 
 
 ## 🏘️ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _28/08/2020_ => 
-Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma imobiliária.
+Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
 - 100% Adonis, sem auxílio de nenhuma lib externa;
 - Envio de email. 
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
-- Quais tecnologias incríveis vamos aprender desta vez?. 
+- Quais tecnologias incríveis vamos aprender desta vez? 
 
 
 
