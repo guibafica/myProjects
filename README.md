@@ -2,7 +2,7 @@
 
 ### Hello 👋, 
 
-Vou descorrer uma sucinta lista dos projetos mais importantes desenvolvidos por mim ao longo da minha carreira. Apresento-lhes com uma tag referente ao tipo do projeto "C-> Comercial || E-> Estudo", uma breve descrição, link para o repositório e por fim, mini lista de tecnologias chaves implementadas:
+Vou discorrer uma sucinta lista dos projetos mais importantes desenvolvidos por mim ao longo da minha carreira. Apresento-lhes com uma tag referente ao tipo do projeto "C-> Comercial || E-> Estudo", uma breve descrição, link para o repositório e por fim, mini lista de tecnologias chaves implementadas:
 
 > Projetos que tiverem com o nome `Nome fictício`, é devido a falta de possibilidade na divulgação de detalhes sobre o projeto, logo, o repositório com o código fonte estará em modo privado.
 
@@ -45,4 +45,4 @@ Em desenvolvimento...
 
 
 
-# "Seja melhor hoje, do que foi ontem! 🚀"
+# "Seja melhor hoje, do que foi ontem, e supere-se no amanhã! 🚀"
