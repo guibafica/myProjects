@@ -26,6 +26,13 @@ Tem como objetivo auxiliar o fluxo de clientes em uma barbearia, com facilidade 
 - Layout detalhado; 
 - Typescript. 
 
+## ❎ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivato-2&type=&language=)  _xx/07/2020_ => 
+Aplicativo android/ios + backend, capaz de realizar os vários tipos de votação disponibilizadas na aplicação.
+- Mysql -
+- Push Notification; -
+- Sistema de votação; -
+- Reprodução video Youtube. -. 
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez?. 
