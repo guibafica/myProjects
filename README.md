@@ -45,4 +45,4 @@ Em desenvolvimento...
 
 
 
-# "Seja melhor hoje, do que foi ontem, e supere-se no amanhã! 🚀"
+# "Seja melhor hoje, do que foi ontem e supere-se no amanhã! 🚀"
