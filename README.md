@@ -2,7 +2,7 @@
 
 ### Hello 👋, 
 
-Lhes apresento uma sucinta listas dos projetos mais importantes que eu desenvolvi ao logo da minha carreira. Irei apresentá-los com uma tag referente ao tipo do projeto "C-> Comercial || E-> Estudo", uma breve descrição, link para o repositório e por fim, mini lista de tecnologias chaves implementadas:
+Vou descorrer uma sucinta lista dos projetos mais importantes desenvolvidos por mim ao longo da minha carreira. Apresento-lhes com uma tag referente ao tipo do projeto "C-> Comercial || E-> Estudo", uma breve descrição, link para o repositório e por fim, mini lista de tecnologias chaves implementadas:
 
 > Projetos que tiverem com o nome `Nome fictício`, é devido a falta de possibilidade na divulgação de detalhes sobre o projeto, logo, o repositório com o código fonte estará em modo privado.
 
