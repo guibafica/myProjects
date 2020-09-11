@@ -31,8 +31,9 @@ Tem como objetivo auxiliar o fluxo de clientes em uma barbearia, com facilidade 
 Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votação* disponibilizadas na aplicação.
 - Mysql 
 - Push Notification; 
-- Sistema de votação; 
-- Reprodução video Youtube. 
+- Sistema de votação;
+- Reprodução video Youtube; 
+- Paginação de notícias.
 
 ## 🏘️ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _28/08/2020_ => 
 Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
