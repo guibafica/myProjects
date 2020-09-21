@@ -38,7 +38,8 @@ Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votaç�
 ## 🏘️ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _28/08/2020_ => 
 Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
 - 100% Adonis, sem auxílio de nenhuma lib externa;
-- Envio de email. 
+- Envio de email.
+- Autenticação social "Login Facebook e Google" 
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
