@@ -38,8 +38,21 @@ Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votaç�
 ## 🏘️ "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _28/08/2020_ => 
 Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
 - 100% Adonis, sem auxílio de nenhuma lib externa;
-- Envio de email.
-- Autenticação social "Login Facebook e Google" 
+- Envio de email;
+- Autenticação social "Login Facebook e Google". 
+
+## 🏥 "C" [Clínica Cuidar](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _25/09/2020_ => 
+Projeto de um site para gestão completa de uma *Clínica médica*.
+- Prontuário do paciente com dados e histórico;
+- Solicitação de exame.
+- Cadastro de Médicos, Pacientes e Funcionários; 
+- Agenda individual de cada médico;
+- Estoque de material com alerta de quantidade;
+- Envio de email, sms e whatsapp;
+- Alerta de atendimentos do dia;
+- Nível de acesso diferente para cada setor;
+- Gerar arquivo "atestado, receita, entre outros" para imprimir;
+- Deploy do Backend, Frontend e Banco de Dados na AWS.
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
