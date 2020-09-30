@@ -39,6 +39,7 @@ Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votaç�
 Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
 - 100% Adonis, sem auxílio de nenhuma lib externa;
 - Envio de email;
+Frontend Mobile desenvolvido com expo.
 - Autenticação social "Login Facebook e Google". 
 
 ## 🏥 "C" [Clínica Cuidar](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=) _25/09/2020_ => 
