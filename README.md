@@ -60,6 +60,11 @@ Projeto de um site para gestão completa de uma *Clínica médica*.
 - Gerar arquivo "atestado, receita, entre outros" para imprimir;
 - Deploy do Backend, Frontend e Banco de Dados na AWS.
 
+## 🧒 "E" [Happy](https://github.com/guibafica?tab=repositories&q=Happy&type=&language=) _12/10/2020_ => 
+Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com o auxílio de um mapa, o usuário poderá visualizar orfanatos próximos de sua localidade.
+- Cadastro e listagem de Orfanatos;
+- Utilização de mapa com o React-Leaflet.
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
