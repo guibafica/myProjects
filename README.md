@@ -63,7 +63,7 @@ Projeto de um site para gestão completa de uma *Clínica médica*.
 ## 🧒 "E" [Happy](https://github.com/guibafica?tab=repositories&q=Happy&type=&language=) _12/10/2020_ => 
 Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com o auxílio de um mapa, o usuário poderá visualizar orfanatos próximos de sua localidade.
 - Cadastro e listagem de Orfanatos;
-- Utilização de mapa com o React-Leaflet.
+- Utilização de mapa com o [React-Leaflet](https://react-leaflet.js.org/) + [Open Street Map](https://www.openstreetmap.org/#map=5/-12.962/-40.957).
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
