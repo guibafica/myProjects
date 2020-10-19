@@ -39,8 +39,8 @@ Aplicativo android/ios + backend, capaz de realizar os vários tipos de *votaç�
 Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento de imóveis. Projeto para uma *imobiliária*.
 - Arquitetura Adonis;
 - Envio de email;
-- Integração com método de pagamento paypal; 
-- Servivos da AWS:
+- Integração com método de pagamento PayPal e checkout transparente; 
+- Serviços da AWS:
   - AWS S3 -> Hospedagem de imagens e documentos;
   - AWS EC2 -> Hospedagem do Backend;
   - AWS RDS -> Hospedagem do Banco de Dados.
