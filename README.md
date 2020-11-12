@@ -66,10 +66,6 @@ Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com 
 - Cadastro e listagem de Orfanatos;
 - Utilização de mapa com o [React-Leaflet](https://react-leaflet.js.org/) + [Open Street Map](https://www.openstreetmap.org/#map=5/-12.962/-40.957).
 
-## 🔍 "C" [Nome fictício](https://github.com/guibafica?tab=repositories&q=repositorioPrivado&type=&language=)  _06/11/2020_ => 
-Projeto web com implementação de tecnologia *AMP* para facilitar o acesso do mesmo em dispositivos móveis.
-- AMP.
-
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
