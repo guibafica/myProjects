@@ -44,7 +44,7 @@ Backend completo, desde o cadastro de usuários, até cadastro e gerenciamento d
   - AWS S3 -> Hospedagem de imagens e documentos;
   - AWS EC2 -> Hospedagem do Backend;
   - AWS RDS -> Hospedagem do Banco de Dados.
-Frontend Mobile desenvolvido com expo.
+- Frontend Mobile desenvolvido com expo.
 - Autenticação social "Login Facebook e Google";
 - Auto complete da localização com CEP.
 
@@ -59,7 +59,8 @@ Projeto de um site para gestão completa de uma *Clínica médica*.
 - Alerta de atendimentos do dia;
 - Nível de acesso diferente para cada setor;
 - Gerar arquivo "atestado, receita, entre outros" para imprimir;
-- Deploy do Backend, Frontend e Banco de Dados na AWS.
+- Deploy do Backend e Banco de Dados na AWS;
+- Deploy do Frontend na Vercel.
 
 ## 🧒 "E" [Happy](https://github.com/guibafica?tab=repositories&q=Happy&type=&language=) _12/10/2020_ => 
 Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com o auxílio de um mapa, o usuário poderá visualizar orfanatos próximos de sua localidade.
