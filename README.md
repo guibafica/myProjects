@@ -67,6 +67,10 @@ Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com 
 - Cadastro e listagem de Orfanatos;
 - Utilização de mapa com o [React-Leaflet](https://react-leaflet.js.org/) + [Open Street Map](https://www.openstreetmap.org/#map=5/-12.962/-40.957).
 
+## 💰 "E" [Banco Dola](https://github.com/guibafica/dolla-banking_Frontend) _05/01/2021_ => 
+Layout responsivo de um landing page para um banco fictício.
+- Acesse o site [AQUI](https://banco-dolla.vercel.app/).
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
