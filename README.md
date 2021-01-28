@@ -71,6 +71,10 @@ Principal objetivo promover *Orfanatos* e trazer alegria as suas crianças. Com 
 Layout responsivo de um landing page para um banco fictício.
 - Acesse o site [AQUI](https://banco-dolla.vercel.app/).
 
+## 🧑 "E" [Meu Portfolio Pessoal](https://github.com/guibafica/Portfolio-Pessoal) _28/01/2021_ => 
+Meu Portfólio pessoal em forma de website completamente responsivo.
+- Breve coloco link de acesso.
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
