@@ -75,6 +75,12 @@ Layout responsivo de um landing page para um banco fictício.
 Meu Portfólio pessoal em forma de website completamente responsivo.
 - Breve coloco link de acesso.
 
+## 🏘️ "E" [ELIXR - venda/aluguel/divulgações de imóveis](https://github.com/guibafica/ELIXR_venda_de_imoveis) _05/02/2021_ => 
+Projeto Website React completamente Responsivo e com Animações. Este repositório tem fins de estudo, e representa a uma landing page de um website para vendas, aluguel e divulgações de imóveis.
+- Responsividade;
+- Designer elegante e atualizado;
+- Animações.
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
