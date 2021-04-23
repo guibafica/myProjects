@@ -81,6 +81,12 @@ Projeto Website React completamente Responsivo e com Animações. Este repositó
 - Designer elegante e atualizado;
 - Animações.
 
+## 🎙️ "E" [Podcastr](https://github.com/guibafica/Podcastr_NLW5) _19/04/2021_ => 
+Uma aplicação web com o intuito de ouvirmos um podcast. O site baseia-se em um único podcast, o objetivo é a postagem do conteúdo oriundo de apenas uma fonte.
+- NextJS;
+- SASS;
+- Server Side Render (SSR) e Static Site Generator (SSG).
+
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
 - Quais tecnologias incríveis vamos aprender desta vez? 
