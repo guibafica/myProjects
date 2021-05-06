@@ -72,8 +72,8 @@ Layout responsivo de um landing page para um banco fictício.
 - Acesse o site [AQUI](https://banco-dolla.vercel.app/).
 
 ## 🧑 "E" [Meu Portfolio Pessoal](https://github.com/guibafica/Portfolio-Pessoal) _28/01/2021_ => 
-Meu Portfólio pessoal em forma de website completamente responsivo.
-- Breve coloco link de acesso.
+Meu primeiro portfólio pessoal em forma de website completamente responsivo.
+- Projeto substituído por uma [Nova Versão](https://github.com/guibafica/New-Personal-Portfolio).
 
 ## 🏘️ "E" [ELIXR - venda/aluguel/divulgações de imóveis](https://github.com/guibafica/ELIXR_venda_de_imoveis) _05/02/2021_ => 
 Projeto Website React completamente Responsivo e com Animações. Este repositório tem fins de estudo, e representa a uma landing page de um website para vendas, aluguel e divulgações de imóveis.
@@ -86,6 +86,10 @@ Uma aplicação web com o intuito de ouvirmos um podcast. O site baseia-se em um
 - NextJS;
 - SASS;
 - Server Side Render (SSR) e Static Site Generator (SSG).
+
+## 🧑 "E" [Meu NOVO Portfolio Pessoal](https://github.com/guibafica/New-Personal-Portfolio) _06/05/2021_ => 
+Nova versão oficial e atualizada do meu portfólio pessoal.
+- Breve disponibilizo link de acesso...
 
 ## ⏳ "?" Soon... _xx/xx/xx_ => 
 Em desenvolvimento...
