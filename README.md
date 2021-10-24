@@ -84,10 +84,6 @@ Uma aplicação web com o intuito de ouvirmos um podcast. O site baseia-se em um
 - SASS;
 - Server Side Render (SSR) e Static Site Generator (SSG).
 
-## 🧑 "E" [Meu NOVO Portfolio Pessoal](https://github.com/guibafica/New-Personal-Portfolio) _06/05/2021_ => 
-Nova versão oficial e atualizada do meu portfólio pessoal.
-- Breve disponibilizo link de acesso...
-
 ## 🧑 "E" [Meu Portfolio Pessoal](https://guilhermebafica.vercel.app/) _24/10/2021_ => 
 
 Versão 3.0 e final do meu portfólio pessoal em forma de website completamente responsivo.
